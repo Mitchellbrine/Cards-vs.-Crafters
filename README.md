@@ -1,5 +1,5 @@
 # Cards vs. Crafters
-###The return of a CAH clone in Minecraft.
+### The return of a CAH clone in Minecraft.
 
 Please **NOTE**: this is **NOT** the repository for the mod itself, but a place to store card packs and track issues for version 2.0+ of the mod.
 
